@@ -4,6 +4,7 @@ Exploring web development for the first time
  
 
 About Me 
+
 Hi, my name is Kyan welcome to my GitHub profile! Here you'll find a collection of my projects, experiments, and learning journey as I explore the world of web development. Feel free to explore and provide feedback.  
 I'm a beginner Front-end developer passionate about creating interactive and visually appealing web applications I'm transitioning to the technology sector because it's something I'm interested in and passionate about.  
 I am passionate about leveraging technology to solve complex problems and create innovative solutions. My curiosity and eagerness to learn drive me to stay up to date with the latest industry trends and continually enhance my skills.  
