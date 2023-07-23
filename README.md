@@ -13,6 +13,7 @@ I am passionate about leveraging technology to solve complex problems and create
  
 
 Projects 
+
 Here are some of the key projects I have worked on: 
 
  
