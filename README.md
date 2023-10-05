@@ -35,7 +35,7 @@ Technologies used: Bootstrap CSS, HTML, PHP MySQL
 
 Deziah’ed Roots Project 
 Deziah'ed Roots was having issues with the exposure of the brand. They therefore tasked me with designing a new logo which would represent the product as well as a dedication to her 3 young kids. The product was developed because of the struggles to find decent natural products to use on her daughter’s hair. 
-Technologies used: Adobe Photoshop, Adobe Illustrator, Shopify 
+Technologies used: Adobe Photoshop, Adobe Illustrator, Shopify. 
 
 Skills 
 
