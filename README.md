@@ -21,7 +21,7 @@ Here are some of the key projects I have worked on:
 
 Cantril Project 
 
-This project focused on analysing datasets collected between 2015 and 2019. All six factors (GDP levels, life expectancy, generosity, social support, freedom, and corruption) should contribute to a country's global prosperity. 
+This project focused on analyzing datasets collected between 2015 and 2019. All six factors (GDP levels, life expectancy, generosity, social support, freedom, and corruption) should contribute to a country's global prosperity. 
 The report produces the results of each dataset and concludes what factors have a much larger impact on a country's happiness. 
 Technologies used: Microsoft Excel CSV, Tableau, JuiceBox 
 
